@@ -10,4 +10,4 @@ I'm currently focused on a long-term private project, working daily (Mon–Sun) 
 
 I hold certifications in Project Management, Agile Methodologies, Cybersecurity, Troubleshooting, AI, Data Science, Accounting, and Laravel — useful tools, but ultimately just skills.
 
-If you're interested in my profile, get more information on **[iantores.cl](https://www.iantorres.cl)**.
+If you're interested in my profile, get more information on **[iantorres.cl](https://www.iantorres.cl)**.
